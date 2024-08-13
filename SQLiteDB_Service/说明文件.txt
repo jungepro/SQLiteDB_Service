@@ -1,0 +1,10 @@
+后台地址：
+http://localhost:8080/coderQ/admin/dist/index.html
+
+
+管理员账号密码：
+admin       123456
+
+运维人员
+yw001       yw001
+yw002       yw002
